@@ -5,3 +5,8 @@
 A multilayer perceptron is a machine learning algorithm which is modelled on the human brain.
 
 """
+
+
+class MultilayerPerceptron:
+
+    def __init__(self, n_layers) -> None:
